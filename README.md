@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://iximiz.github.io/github-portfolio/" target="_blank">**Visit My Portfolio** 🚀</a>
 
 
 ## 📌 Tech Stack
