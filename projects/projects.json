@@ -1,8 +1,8 @@
 [
   {
-    "name": "NotyStack Android",
+    "name": "Test",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
+    "image": "notystackandroid.png",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
